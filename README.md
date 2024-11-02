@@ -32,7 +32,7 @@ Alright, enough of unasked motivation; lets go to the good stuff.  Extensive lib
     You are free to follow the educator you like. 
 
     - Numpy - https://www.youtube.com/watch?v=QUT1VHiLmmI
-    - Pandas - https://www.youtube.com/playlist?list=PL-osiE80TeTsWmV9i9c58mdDCSskIFdDS (this one is a bit long though, reading throught the text resource provided above will be much quicker)
+    - Pandas - https://www.youtube.com/watch?v=2uvysYbKdjM 
     - Matplotlib - w3 padh le 
 
 - I have uploaded 6 Tutorials, which you can go through for a quick refresher.
