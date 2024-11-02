@@ -15,10 +15,10 @@ Alright, enough of unasked motivation; lets go to the good stuff.  Extensive lib
 > [!NOTE] 
 > You should get comfortable with reading documentation. Having the ability to navigate through formal documentation is must for a programmer.
 
-- Understanding [Python Virtual Environment](https://www.geeksforgeeks.org/python-virtual-environment/)
+- Understanding [Python Virtual Environment](https://www.geeksforgeeks.org/python-virtual-environment/) (Can be skipped)
 
 - Setting up Jupyter: Jupyter is a platform which lets you write and run code and visualize data in one place. You can skip this if you want but eventually at some point in your life, you will have to work on Jupyter.
-  - For Windows Users: https://www.geeksforgeeks.org/install-jupyter-notebook-in-windows/ 
+  - For Windows Users: https://www.geeksforgeeks.org/install-jupyter-notebook-in-windows/
   - For Mac Users: https://www.geeksforgeeks.org/how-to-install-jupyter-notebook-on-macos/ 
   - For Linux Users: you are smart enough to figure it out yourselves 
 
@@ -26,7 +26,7 @@ Alright, enough of unasked motivation; lets go to the good stuff.  Extensive lib
 
 - Understanding GitHub: go through [this](https://www.datacamp.com/tutorial/github-and-git-tutorial-for-beginners) for a basic exposure with specific focus on how to stage and commit changes, pushing changes to origin and forking a GitHub repo.
            
-> [!TIP]
+> [TIP]
 > You are advised to go through the Python Basics part rigourously. For the Numpy, Pandas and Matplotlib, doing a quick rundown shall suffice.
 
 - ### Resources
@@ -46,9 +46,19 @@ Alright, enough of unasked motivation; lets go to the good stuff.  Extensive lib
 
 - I have uploaded 6 Tutorials, which you can go through for a quick refresher.
 
-- Just save these 2 links for some good NumPy and Pandas Practice problems (to be done later on when you become pro, you are definitely not reqired to solve them now):
+- Just save these 2 links for some good NumPy and Pandas Practice problems (to be done later on when you become pro, you are definitely not required to solve them now):
   - [Numpy 100 puzzles](https://github.com/rougier/numpy-100)
-  - [Pandas 100 puzzles](https://github.com/ajcr/100-pandas-puzzles) 
+  - [Pandas 100 puzzles](https://github.com/ajcr/100-pandas-puzzles)
 
 
+- Lastly, python is a language in which you can do anything and everything. You just have to <b>FIND</b> the right function (for most of the basic parts). So if you are struggling on how to do something, here are the steps you need to follow:
+  <ol>
+  <li>Try to remember</li>
+  <li>Google search and look into the documentation</li>
+  <li>Google search and you will most probably find some stack overflow post</li>
+  <li>Contact us</li>
+  </ol>
+  Also, as you can see, no GPT has been mentioned anywhere. So please try and avoid it as much as possible :)
+
+- Also, if you are still hungry for questions/want to learn more, you can freely contact any of us.
 
