@@ -4,9 +4,9 @@
 
 As you explore these resources, remember that each step is building the foundation of your data science and programming journey. Learning Python and its libraries will open doors to analyzing data, automating tasks, and solving real-world problems. With patience and practice, you'll develop skills that highly adaptable to countless fields.
 
-Embrace the learning process—ask questions, experiment, and explore! Every new concept mastered is a step closer to becoming confident with data and building tools that create impact.
+Enjoy the learning process—ask questions, experiment, and explore! Every new concept mastered is a step closer to becoming confident with data and building tools that create impact.
 
-Alright, enough of unasked motivation; lets go to the good stuff.  Extensive library support is one of the primary reasons Python is considered a "god" language for many modern applications (okay, maybe a bit of an exaggeration here 😉). In this week, we will also explore some of the  fundamental Python libaries that have universal applications. 
+Alright, enough of unasked motivation; lets go to the good stuff.  Talk about PyExtensive library support is one of the primary reasons Python is considered a "god" language for many modern applications (okay, maybe a bit of an exaggeration here 😉). In this week, we will also explore some of the  fundamental Python libaries that have universal applications. 
 
 ### Setting Up The Environment
 
