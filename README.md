@@ -8,24 +8,33 @@ Embrace the learning process—ask questions, experiment, and explore! Every new
 
 Alright, enough of unasked motivation; lets go to the good stuff.  Extensive library support is one of the primary reasons Python is considered a "god" language for many modern applications (okay, maybe a bit of an exaggeration here 😉). In this week, we will also explore some of the  fundamental Python libaries that have universal applications. 
 
-- Install and setup [Python](https://docs.python.org/3/tutorial/index.html), [NumPy](https://numpy.org/doc/1.26/user/absolute_beginners.html), [Pandas](https://pandas.pydata.org/docs/getting_started/index.html#getting-started), [Matplotlib](https://matplotlib.org/stable/index.html) and save their documentation for reference.
+### Setting Up The Environment
 
+- Install and setup [Python](https://docs.python.org/3/tutorial/index.html), [NumPy](https://numpy.org/doc/1.26/user/absolute_beginners.html), [Pandas](https://pandas.pydata.org/docs/getting_started/index.html#getting-started), [Matplotlib](https://matplotlib.org/stable/index.html) and save their documentation for reference.
+  
 > [!NOTE] 
 > You should get comfortable with reading documentation. Having the ability to navigate through formal documentation is must for a programmer.
 
+- Understanding [Python Virtual Environment](https://www.geeksforgeeks.org/python-virtual-environment/)
+
+- Setting up Jupyter: Jupyter is a platform which lets you write and run code and visualize data in one place. You can skip this if you want but eventually at some point in your life, you will have to work on Jupyter.
+  - For Windows Users: https://www.geeksforgeeks.org/install-jupyter-notebook-in-windows/ 
+  - For Mac Users: https://www.geeksforgeeks.org/how-to-install-jupyter-notebook-on-macos/ 
+  - For Linux Users: you are smart enough to figure it out yourselves 
+
+  Using VS Code is highly recommended. The instructions for setting up Jupyter can be found [here](https://medium.com/@claudia.nikel/how-to-setup-a-jupyter-notebook-in-vs-code-w-virtual-env-kernels-install-packages-884cf643375e)
+
+- Understanding GitHub: go through [this](https://www.datacamp.com/tutorial/github-and-git-tutorial-for-beginners) for a basic exposure with specific focus on how to stage and commit changes, pushing changes to origin and forking a GitHub repo.
+           
 > [!TIP]
 > You are advised to go through the Python Basics part rigourously. For the Numpy, Pandas and Matplotlib, doing a quick rundown shall suffice.
 
 - ### Resources
-
+  
     - Python - https://www.w3schools.com/python/default.asp : For starters you can read till Python File Handling
     - Numpy -https://www.w3schools.com/python/numpy/default.asp : For starters you can read till NumPy Array Filtering
     - Pandas - https://www.w3schools.com/python/pandas/default.asp : It is a short module, having one read will be okay
     - Matplotlib - https://www.w3schools.com/python/matplotlib_intro.asp : Just go over it, you are not expected to remember anything. 
-
->[!NOTE] 
-> In case anyone does not like w3schools ke resources, you can contact Avinash. You will be given other simpler resources. 
-
 
 - ### Video Tutorials For Lazy People:
 
