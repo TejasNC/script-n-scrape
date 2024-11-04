@@ -26,7 +26,7 @@ Alright, enough of unasked motivation; lets go to the good stuff.  Talk about Py
 
 - Understanding GitHub: go through [this](https://www.datacamp.com/tutorial/github-and-git-tutorial-for-beginners) for a basic exposure with specific focus on how to stage and commit changes, pushing changes to origin and forking a GitHub repo.
            
-> [TIP]
+> [!TIP]
 > You are advised to go through the Python Basics part rigourously. For the Numpy, Pandas and Matplotlib, doing a quick rundown shall suffice.
 
 - ### Resources
