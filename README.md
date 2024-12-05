@@ -25,14 +25,15 @@ ____
 
   Using VS Code is highly recommended. The instructions for setting up Jupyter can be found [here](https://medium.com/@claudia.nikel/how-to-setup-a-jupyter-notebook-in-vs-code-w-virtual-env-kernels-install-packages-884cf643375e)
 
-- Understanding GitHub: go through [this](https://www.datacamp.com/tutorial/github-and-git-tutorial-for-beginners) for a basic exposure with specific focus on how to stage and commit changes, pushing changes to origin and forking a GitHub repo.
+- Understanding GitHub: go through [this](https://www.datacamp.com/tutorial/github-and-git-tutorial-for-beginners) for a basic exposure with specific focus on how to stage and commit changes, pushing changes to origin and forking a GitHub repo.<br>
+Git can sometimes be confusing. If you have any problem while working with git/GitHub, please contact any of us.
 
 ___
-           
-> [!TIP]
-> You are advised to go through the Python Basics part rigourously. For the Numpy, Pandas and Matplotlib, doing a quick rundown shall suffice.
 
 ### Resources
+
+> [!TIP]
+> You are advised to go through the Python Basics part rigourously. For the Numpy, Pandas and Matplotlib, doing a quick rundown shall suffice.
   
   - Python - https://www.w3schools.com/python/default.asp : For starters you can read till Python File Handling
   - Numpy -https://www.w3schools.com/python/numpy/default.asp : For starters you can read till NumPy Array Filtering
