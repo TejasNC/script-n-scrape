@@ -9,6 +9,8 @@ Enjoy the learning process—ask questions, experiment, and explore!
 
 Please find the resources for Week1 in [Week1-Resources](./Week1-Resources)
 
+Start by reading README.md
+
 ---
 
 Python is a language in which you can do anything and everything. You just have to <b>FIND</b> the right function (for most of the basic parts). So if you are struggling on how to do something, here are the steps you need to follow:
