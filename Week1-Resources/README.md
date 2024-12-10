@@ -36,7 +36,7 @@ ___
 
 ### Video Tutorials 
 
-    Numpy - https://www.youtube.com/watch?v=QUT1VHiLmmI
+   -  Numpy - https://www.youtube.com/watch?v=QUT1VHiLmmI
 
 Tutorials have also been uploaded, which you can go through for a quick refresher. 
 
@@ -47,5 +47,3 @@ Tutorials have also been uploaded, which you can go through for a quick refreshe
 
 Here are some good practice problems (optional)
   - [Numpy 100 puzzles](https://github.com/rougier/numpy-100)
-
-
