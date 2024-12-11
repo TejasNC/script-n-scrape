@@ -66,3 +66,6 @@ ___
 
 - Also, if you are still hungry for questions/want to learn more, you can freely contact any of us.
 
+## Week 2
+
+This week we will learn HTML, CSS and Javascript. 

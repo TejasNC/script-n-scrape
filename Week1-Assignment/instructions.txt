@@ -1,0 +1,8 @@
+This assignment is optional but is really good (I-can-put-this-on-my-resume level good) if you complete it. 
+
+If you already know what neural networks are, then you can go with this. And knowing neural networks does not mean knowing what functions to use from tensorflow or pytorch. You should understand what happens in a neural network, the mathematics behind it, why it works. A basic neural network has neurons, weights, biases, activation functions and the concepts like loss, back propagation, gradient descent, training and predicting. If you know what these terms mean, you are good to go. 
+
+If you don't, I have attached links wherever required. There is an awesome medium article: https://medium.com/@waadlingaadil/
+learn-to-build-a-neural-network-from-scratch-yes-really-cac4ca457efc which explains each and every bit of neural networks from 
+basics. I would recommend everyone to once follow the article, do the math given there. Even if you just read the article and 
+understand the math and not do this assignment, it is enough. You will get the essence of what machine learning is all about.
