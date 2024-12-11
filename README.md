@@ -12,7 +12,7 @@ Please find the resources for Week1 in [Week1-Resources](./Week1-Resources)
 Before you get started with the assignment, ceate a GitHub repository. Clone it onto your system by using this command in your terminal: 
 ```
 git clone https://github.com/your-username/script-n-scrape.git
-cd kalman-pairs-trading
+cd script-n-scrape
 ```
 ---
 
