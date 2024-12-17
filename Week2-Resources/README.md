@@ -10,7 +10,7 @@ Your goal for this week is to learn the following in Pandas:
 - calculating summary statistics from data
 
 
-For Matplotlib, you should be familiar with what kinds of plots can be generated using Matplotlib, and appreciate how versatile Matplotlib is in terms of the variety of types of input objects it can generate plots from (python lists, ndarrays, pd.Series to name a few).
+For Matplotlib, you should get familiar with what kinds of plots can be generated using Matplotlib, and appreciate how versatile Matplotlib is in terms of the variety of types of input objects it can generate plots from (python lists, ndarrays, pd.Series to name a few).
 
 We have provided a tutorial for Pandas and Matplotlib to summarize this week's learnings and motivate some real applications. You should definitely go through that.
 
