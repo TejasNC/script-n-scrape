@@ -1,0 +1,309 @@
+[
+{
+    "index": 0,
+    "name": "Dune: Part Two",
+    "duration": "2h 46m",
+    "rating": "8.7",
+    "release_year": "2024",
+    "poster": "https://m.media-amazon.com/images/M/MV5BN2QyZGU4ZDctOWMzMy00NTc5LThlOGQtODhmNDI1NmY5YzAwXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_QL75_UX140_CR0,0,140,207_.jpg",
+    "summary": "Paul Atreides unites with Chani and the Fremen while seeking revenge against the conspirators who destroyed his family.",
+    "genre": [
+        "Action",
+        "Adventure",
+        "Drama"
+    ],
+    "directors": [
+        "Denis Villeneuve"
+    ],
+    "writers": [
+        "Denis Villeneuve",
+        "Jon Spaihts",
+        "Frank Herbert"
+    ],
+    "languages": ["English"],
+    "cast": [
+        "Timoth\u00e9e Chalamet",
+        "Zendaya",
+        "Rebecca Ferguson",
+        "Javier Bardem",
+        "Josh Brolin",
+        "Austin Butler",
+        "Florence Pugh",
+        "Dave Bautista",
+        "Christopher Walken",
+        "L\u00e9a Seydoux",
+        "Stellan Skarsg\u00e5rd",
+        "Charlotte Rampling",
+        "Souheila Yacoub",
+        "Roger Yuan",
+        "Babs Olusanmokun",
+        "Alison Halstead",
+        "Giusi Merli",
+        "Kait Tenison"
+    ],
+    "metascore": "79",
+    "imdb_page": "https://www.imdb.com/title/tt15239678/?ref_=sr_t_1",
+    "reviews": [
+        "Part Two is an inarguable marvel technically, almost leaving its Oscar-grade predecessor for dust.",
+        "Part Two is as grand as it is intimate, and while Hans Zimmer\u2019s score once again blasts your eardrums into submission, and the theatre seats rumble with every cresting sand worm, it\u2019s the choice moments of silence that really leave their mark.",
+        "Our blockbuster drought is over, thanks to a brilliant sequel set on a sweltering desert planet.",
+        "The art of cinematic spectacle is alive and rocking in Dune: Part Two, and it\u2019s a blast.",
+        "Dune: Part Two is certainly up there with some of the best science fiction movies I\u2019ve ever seen.",
+        "Villeneuve\u2019s film is a grand success, working on an even broader canvas than the first Dune\u2014but it\u2019s tinged with deep mournfulness, a quality that sets it apart from its blockbuster contemporaries."
+    ],
+    "reviewer": [
+        "Total Film",
+        "The Independent",
+        "New York Post",
+        "The New York Times",
+        "Uproxx",
+        "The Atlantic"
+    ],
+    "trailer" : "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
+},
+{
+    "index": 1,
+    "name": "Oppenheimer",
+    "duration": "3h",
+    "rating": "8.3",
+    "release_year": "2023",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMDBmYTZjNjUtN2M1MS00MTQ2LTk2ODgtNzc2M2QyZGE5NTVjXkEyXkFqcGdeQXVyNzAwMjU2MTY@._V1_QL75_UX140_CR0,0,140,207_.jpg",
+    "summary": "The story of American scientist J. Robert Oppenheimer and his role in the development of the atomic bomb.",
+    "genre": [
+        "Biography",
+        "Drama",
+        "History"
+    ],
+    "directors": [
+        "Christopher Nolan"
+    ],
+    "writers": [
+        "Christopher Nolan",
+        "Kai Bird",
+        "Martin Sherwin"
+    ],
+    "languages": ["English"],
+    "cast": [
+        "Cillian Murphy",
+        "Emily Blunt",
+        "Matt Damon",
+        "Robert Downey Jr.",
+        "Alden Ehrenreich",
+        "Scott Grimes",
+        "Jason Clarke",
+        "Kurt Koehler",
+        "Tony Goldwyn",
+        "John Gowans",
+        "Macon Blair",
+        "James D'Arcy",
+        "Kenneth Branagh",
+        "Harry Groener",
+        "Gregory Jbara",
+        "Ted King",
+        "Tim DeKay",
+        "Steven Houska"
+    ],
+    "metascore": "90",
+    "imdb_page": "https://www.imdb.com/title/tt15398776/?ref_=sr_t_2",
+    "reviews": [
+        "It\u2019s powerful, a technically dazzling achievement; so audacious is Nolan\u2019s filmmaking that if it didn\u2019t serve the story you\u2019d think at times he was just showing off. He\u2019s not.",
+        "The cumulative effect is so stunning and antithetical to anything Hollywood is doing at the moment \u2013 the equally audacious Barbie aside \u2013 that it feels like a completely different art form. And, frankly, hallelujah for that.",
+        "Oppenheimer is one of those shoot-for-the-moon projects that feels thrilling and wonky, brilliant and overstuffed, too much and yet not enough. It\u2019s also a movie that brings to mind the difficult era-spanning epics of yesteryear, from Reds to The Right Stuff, and is a movie made by adults for adults yet done with the sweep and majesty we now associate with movies made for kids and teens.",
+        "Taut and sprawling, riveting and haunting: firing on all cylinders, Nolan tackles world-changing history with fearsome force and focus.",
+        "Oppenheimer is a towering achievement not just for Nolan, but for everyone involved. It is the kind of film that makes you appreciative of every aspect of filmmaking, blowing you away with how it all comes together in such a fitting fashion.",
+        "A masterfully constructed character study from a great director operating on a whole new level. A film that you don\u2019t merely watch, but must reckon with."
+    ],
+    "reviewer": [
+        "Arizona Republic",
+        "Time Out",
+        "Rolling Stone",
+        "Total Film",
+        "Collider",
+        "Empire"
+    ],
+    "trailer": "https://video.internetvideoarchive.net/video.mp4?cmd=6&fmt=4&customerid=654126&publishedid=507772&e=2208902400&videokbrate=1500&h=a9302f093538846d8f2a6bbaecd92a01"
+},
+{
+    "index": 2,
+    "name": "Joker",
+    "duration": "2h 2m",
+    "rating": "8.4",
+    "release_year": "2019",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNGVjNWI4ZGUtNzE0MS00YTJmLWE0ZDctN2ZiYTk2YmI3NTYyXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_QL75_UX140_CR0,0,140,207_.jpg",
+    "summary": "During the 1980s, a failed stand-up comedian is driven insane and turns to a life of crime and chaos in Gotham City while becoming an infamous psychopathic crime figure.",
+    "genre": [
+        "Crime",
+        "Drama",
+        "Thriller"
+    ],
+    "directors": [
+        "Todd Phillips"
+    ],
+    "writers": [
+        "Todd Phillips",
+        "Scott Silver",
+        "Bob Kane"
+    ],
+    "languages": ["English"],
+    "cast": [
+        "Joaquin Phoenix",
+        "Robert De Niro",
+        "Zazie Beetz",
+        "Frances Conroy",
+        "Brett Cullen",
+        "Shea Whigham",
+        "Bill Camp",
+        "Glenn Fleshler",
+        "Leigh Gill",
+        "Josh Pais",
+        "Rocco Luna",
+        "Marc Maron",
+        "Sondra James",
+        "Murphy Guyer",
+        "Douglas Hodge",
+        "Dante Pereira-Olson",
+        "Carrie Louise Putrello",
+        "Sharon Washington"
+    ],
+    "metascore": "59",
+    "imdb_page": "https://www.imdb.com/title/tt7286456/?ref_=sr_t_3",
+    "reviews": [
+        "Featuring a riveting, fully realized, and Oscar-worthy performance by Joaquin Phoenix, Joker would work just as well as an engrossing character study without any of its DC Comics trappings; that it just so happens to be a brilliant Batman-universe movie is icing on the Batfan cake. You will likely leave Joker feeling like I did: unsettled and ready to debate the film for years to come.",
+        "More character study than comic book movie, and anchored by an Oscar-worthy Joaquin Phoenix, Joker is a bravura blockbuster that proves you don\u2019t need superpowered scraps to dazzle.",
+        "Joaquin Phoenix is devastating as the villain-in-the-making in this incendiary tale of psychological escape and psychopathy.",
+        "Bold, devastating and utterly beautiful, Todd Phillips and Joaquin Phoenix have not just reimagined one of the most iconic villains in cinema history, but reimagined the comic book movie itself.",
+        "Phoenix has created a masterful performance for a film which itself feels like a masterpiece: a cracked masterpiece.",
+        "What a gloriously daring and explosive film Joker is. It\u2019s a tale that\u2019s almost as twisted as the man at its centre, bulging with ideas and pitching towards anarchy."
+    ],
+    "reviewer": [
+        "IGN",
+        "Total Film",
+        "Time Out",
+        "Empire",
+        "CineVue",
+        "The Guardian"
+    ],
+    "trailer": "https://video.internetvideoarchive.net/video.mp4?cmd=6&fmt=4&customerid=654126&publishedid=834011&e=2208902400&videokbrate=1500&h=47b7e081410f390c7bc6337b79825a22"
+},
+{
+    "index": 3,
+    "name": "The Godfather",
+    "duration": "2h 55m",
+    "rating": "9.2",
+    "release_year": "1972",
+    "poster": "https://m.media-amazon.com/images/M/MV5BM2MyNjYxNmUtYTAwNi00MTYxLWJmNWYtYzZlODY3ZTk3OTFlXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_QL75_UY207_CR3,0,140,207_.jpg",
+    "summary": "The aging patriarch of an organized crime dynasty transfers control of his clandestine empire to his reluctant son.",
+    "genre": [
+        "Crime",
+        "Drama"
+    ],
+    "directors": [
+        "Francis Ford Coppola"
+    ],
+    "writers": [
+        "Mario Puzo",
+        "Francis Ford Coppola"
+    ],
+    "languages": ["English"],
+    "cast": [
+        "Marlon Brando",
+        "Al Pacino",
+        "James Caan",
+        "Diane Keaton",
+        "Richard S. Castellano",
+        "Robert Duvall",
+        "Sterling Hayden",
+        "John Marley",
+        "Richard Conte",
+        "Al Lettieri",
+        "Abe Vigoda",
+        "Talia Shire",
+        "Gianni Russo",
+        "John Cazale",
+        "Rudy Bond",
+        "Al Martino",
+        "Morgana King",
+        "Lenny Montana"
+    ],
+    "metascore": "100",
+    "imdb_page": "https://www.imdb.com/title/tt0068646/?ref_=sr_t_4",
+    "reviews": [
+        "Just about as great as a movie's ever gonna be... As for the storytellng, The Godfather is an intricately constructed gem that simultaneously kicks ass.",
+        "The picture is a series of mini-climaxes, all building to the devastating, definitive conclusion... It was carefully and painstakingly crafted. Every major character - and more than a few minor ones - is molded into a distinct, complex individual.",
+        "The wedding sequence... is a virtuoso stretch of filmmaking: Coppola brings his large cast onstage so artfully that we are drawn at once into the Godfather's world.",
+        "In scene after scene -- the long wedding sequence, John Marley's bloody discovery in his bed, Pacino nervously smoothing down his hair before a restaurant massacre, the godfather's collapse in a garden -- Coppola crafted an enduring, undisputed masterpiece. [21 Mar 1997, Daily Datebook, p.C3]",
+        "One of the most brutal and moving chronicles of American life ever designed within the limits of popular entertainment. [16 Mar 1972]",
+        "The Godfather traces the arc of this doomed idealism with a beauty that is still fresh."
+    ],
+    "reviewer": [
+        "Austin Chronicle",
+        "ReelViews",
+        "Chicago Sun-Times",
+        "San Francisco Chronicle",
+        "The New York Times",
+        "L.A. Weekly"
+    ],
+    "trailer": "https://video.internetvideoarchive.net/video.mp4?cmd=6&fmt=4&customerid=654126&publishedid=683359&e=2208902400&videokbrate=1500&h=f6cc99b61c550752adab00277f623669"
+},
+{
+    "index": 4,
+    "name": "Interstellar",
+    "duration": "2h 49m",
+    "rating": "8.7",
+    "release_year": "2014",
+    "poster": "https://m.media-amazon.com/images/M/MV5BZjdkOTU3MDktN2IxOS00OGEyLWFmMjktY2FiMmZkNWIyODZiXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_QL75_UX140_CR0,0,140,207_.jpg",
+    "summary": "When Earth becomes uninhabitable in the future, a farmer and ex-NASA pilot, Joseph Cooper, is tasked to pilot a spacecraft, along with a team of researchers, to find a new planet for humans.",
+    "genre": [
+        "Adventure",
+        "Drama",
+        "Sci-Fi"
+    ],
+    "directors": [
+        "Christopher Nolan"
+    ],
+    "writers": [
+        "Jonathan Nolan",
+        "Christopher Nolan"
+    ],
+    "languages": [],
+    "cast": [
+        "Matthew McConaughey",
+        "Anne Hathaway",
+        "Jessica Chastain",
+        "Mackenzie Foy",
+        "Ellen Burstyn",
+        "John Lithgow",
+        "Timoth\u00e9e Chalamet",
+        "David Oyelowo",
+        "Collette Wolfe",
+        "Francis X. McCarthy",
+        "Bill Irwin",
+        "Andrew Borba",
+        "Wes Bentley",
+        "William Devane",
+        "Michael Caine",
+        "David Gyasi",
+        "Josh Stewart",
+        "Casey Affleck"
+    ],
+    "metascore": "74",
+    "imdb_page": "https://www.imdb.com/title/tt0816692/?ref_=sr_t_5",
+    "reviews": [
+        "An exhilarating slalom through the wormholes of Christopher Nolan\u2019s vast imagination that is at once a science-geek fever dream and a formidable consideration of what makes us human.",
+        "It\u2019s a bold, beautiful cosmic adventure story with a touch of the surreal and the dreamlike, and yet it always feels grounded in its own deadly serious reality.",
+        "Interstellar is Nolan\u2019s best and most brazenly ambitious film to date.",
+        "Brainy, barmy and beautiful to behold, this is Stephen Hawking\u2019s Star Trek: a mind-bending opera of space and time with a soul wrapped up in all the science.",
+        "Genius director Christopher Nolan reaches for the stars in Interstellar \u2014 and delivers a soulful, must-see masterpiece, one of the most exhilarating film experiences so far this century.",
+        "What a beautiful and epic film is Interstellar, filled with great performances, tingling our senses with masterful special effects, daring to be openly sentimental, asking gigantic questions about the meaning of life and leaving us drained and grateful for the experience."
+    ],
+    "reviewer": [
+        "Variety",
+        "Time Out London",
+        "The Telegraph",
+        "Empire",
+        "New York Post",
+        "Chicago Sun-Times"
+    ],
+    "trailer": "https://video.internetvideoarchive.net/video.mp4?cmd=6&fmt=4&customerid=654126&publishedid=850698&e=2208902400&videokbrate=1500&h=4064420fb24a718b18f235cd3939a696"
+}
+]
