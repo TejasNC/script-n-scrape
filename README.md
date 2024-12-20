@@ -21,7 +21,7 @@ cd script-n-scrape
 
 This week, our focus will be on learning Pandas, Matplotlib, HTML and CSS. Please go through [Week-2 README](./Week2-Resources/README.md).
 
-Assignment for this week has been added. Find it [here](./Week2-Assignment2).
+Assignment for this week has been added. Find it [here](./Week2-Assignment).
 
 ---
 
