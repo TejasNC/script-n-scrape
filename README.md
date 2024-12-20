@@ -21,6 +21,8 @@ cd script-n-scrape
 
 This week, our focus will be on learning Pandas, Matplotlib, HTML and CSS. Please go through [Week-2 README](./Week2-Resources/README.md).
 
+Assignment for this week has been added. Find it [here](./Week2-Assignment2).
+
 ---
 
 Python is a language in which you can do anything and everything. You just have to <b>FIND</b> the right function (for most of the basic parts). So if you are struggling on how to do something, here are the steps you need to follow:
