@@ -36,4 +36,10 @@ Python is a language in which you can do anything and everything. You just have 
 
 Also, if you are still hungry for questions/want to learn more, you can freely contact any of us.
 
+## Week 3 
 
+Resources have been uploaded.
+
+## Week 4 
+
+Resources have been uploaded.
